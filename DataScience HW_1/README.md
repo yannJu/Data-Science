@@ -13,5 +13,6 @@ _지프의 법칙은 n(단어의 출현횟수) = ck(단어의 출현순위)^-s_
 
 * redirection 사용으로 stdin과 stdout에 대한 정리
 * `import re`를 통하여 re.split사용 
-	_ re.split외에도 re.sub, re.compile, re.findall사용 _
+
+	_re.split외에도 re.sub, re.compile, re.findall사용_
 * `Counter`을 통하여 빠르고 쉽게 횟수 체크
