@@ -8,3 +8,9 @@
 
 
 [**__HW3 : Softmax Regression practice__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20HW_3)
+
+
+[**__HW4 : Similarity Practice__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20HW_4)
+
+
+[**__HW5 : Latent Factor Model__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20HW_5)
