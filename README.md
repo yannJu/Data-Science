@@ -14,3 +14,6 @@
 
 
 [**__HW5 : Latent Factor Model__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20HW_5)
+
+
+[**__PRAC1 : Cluster Practice__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20Prac_1)
