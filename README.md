@@ -17,3 +17,6 @@
 
 
 [**__PRAC1 : Cluster Practice__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20Prac_1)
+
+
+[**__PROJECT1: 학생 신체데이터 분석__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20ProJ_1)
