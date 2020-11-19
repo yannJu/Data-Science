@@ -20,3 +20,6 @@
 
 
 [**__PROJECT1: 학생 신체데이터 분석__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20ProJ_1)
+
+
+[**__HW7 : KNN Practice__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20HW_7)
