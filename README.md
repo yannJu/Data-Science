@@ -23,3 +23,6 @@
 
 
 [**__HW7 : KNN Practice__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20HW_7)
+
+
+[**__HW8 : PCA Practice__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20HW_8)
