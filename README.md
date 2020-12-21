@@ -32,3 +32,6 @@
 
 
 [**__HW10 : Decision Tree__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20HW_10)
+
+
+[**__PROJECT2 : 영화 추천하기__**](https://github.com/yannJu/Data-Science/tree/master/DataScience%20ProJ_2)
